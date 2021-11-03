@@ -19,7 +19,8 @@
 
 ## What I'm focusing on 📚
 
-
+I'm focusing into improve my JavaScript skills. 
+My plans for the near future is to dive into backend technologies, such as Java and Ruby on Rails.
 
 ## Reach me elsewhere 🌎
 
