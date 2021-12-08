@@ -1,11 +1,11 @@
-[comment]: # (Update 08/12/2021 17:12)
+[comment]: # (Update 08/12/2021 17:13)
 ### Hi there 👋
 ### I am Igor Gomes
 
 <div>
   <a href="https://github.com/gomesIgor21/" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gomesIgor21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" src=""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesIgor21&theme=dracula&layout=compact&langs_count=16"/>
 </div>
 
 <div style="display: inline_block"><br>
