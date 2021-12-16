@@ -20,8 +20,7 @@
 
 ## What I'm focusing on 📚
 
-I'm focusing into improve my JavaScript skills. 
-My plans for the near future is to dive into backend technologies, such as Java and Ruby on Rails.
+I'm focusing in TDD studies, SOLID and Clean Code. Doing practice projects for apply all of those concepts.
 
 ## Reach me elsewhere 🌎
 
