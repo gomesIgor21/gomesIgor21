@@ -20,7 +20,7 @@
 
 ## What I'm focusing on 📚
 
-I'm focusing in TDD studies, SOLID and Clean Code. Doing practice projects for apply all of those concepts.
+Currently working as Backend Developer. Prioritizing software architeture and devops studies primaraly for college, but is going to be very usefull for work.
 
 ## Reach me elsewhere 🌎
 
