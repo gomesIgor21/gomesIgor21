@@ -20,7 +20,7 @@
 
 ## What I'm focusing on 📚
 
-Currently working as Backend Developer. Prioritizing software architeture and devops studies primaraly for college, but is going to be very usefull for work.
+Currently working as FullStack Developer.
 
 ## Reach me elsewhere 🌎
 
