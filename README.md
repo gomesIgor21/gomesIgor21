@@ -10,11 +10,11 @@
 
 <div style="display: inline_block"><br>
   <img width="50px" heigth="50px" alt="JS" src="https://github.com/gomesIgor21/gomesIgor21/blob/master/images/javascript-original.svg"/>
-  <img width="50px" heigth="50px" alt="TS" src="https://github.com/gomesIgor21/gomesIgor21/blob/master/images/logo-node-js-512.png"/>
-  <img width="50px" heigth="50px" alt="NodeJS" src="https://github.com/gomesIgor21/gomesIgor21/blob/master/images/javascript-original.svg"/>
+  <img width="50px" heigth="50px" alt="TS" src="https://github.com/gomesIgor21/gomesIgor21/blob/master/images/typescript-original.svg"/>
+  <img width="50px" heigth="50px" alt="NodeJS" src="https://github.com/gomesIgor21/gomesIgor21/blob/master/images/logo-node-js-512.png"/>
   <img width="50px" heigth="50px" alt="React" src="https://github.com/gomesIgor21/gomesIgor21/blob/master/images/react-original.svg"/>
   <img width="50px" heigth="50px" alt="NextJS" src="https://github.com/gomesIgor21/gomesIgor21/blob/master/images/nextjs.svg"/>
-  <img width="50px" heigth="50px" alt="TailwindCSS" src="https://github.com/gomesIgor21/gomesIgor21/blob/master/images/tailwindcss.png"/>
+  <img width="50px" heigth="50px" alt="TailwindCSS" src="https://github.com/gomesIgor21/gomesIgor21/blob/master/images/tailwindss.png"/>
  
 </div>
 
